@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env

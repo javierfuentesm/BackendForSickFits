@@ -1,0 +1,12 @@
+type Dog{
+    name:String!
+}
+
+
+type Mutation{
+    hi: String
+}
+
+type Query{
+    dogs: [Dog]!
+}

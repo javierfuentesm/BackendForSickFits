@@ -7,5 +7,4 @@ const Query = {
     return items;
   },*/
 };
-
 module.exports = Query;
